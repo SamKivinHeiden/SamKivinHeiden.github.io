@@ -1,2 +1,0 @@
-# SamKivinHeiden.github.io
-Portfolio
