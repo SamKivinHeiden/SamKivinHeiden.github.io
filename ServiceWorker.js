@@ -1,9 +1,9 @@
 const cacheName = "Portfolio-Unity class-1.0";
 const contentToCache = [
     "Build/website.loader.js",
-    "Build/website.framework.js.br",
-    "Build/website.data.br",
-    "Build/website.wasm.br",
+    "Build/website.framework.js",
+    "Build/website.data",
+    "Build/website.wasm",
     "TemplateData/style.css"
 
 ];
